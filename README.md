@@ -14,7 +14,7 @@ LayoutEditor installtion on your system and imports the Python module for Layout
 
 ----
 
-To use this package just add *import LayoutEditorLoader* to your python script. Any further [manual][manual] of the Python API is includes in the manual of the LayoutEditor.
+To use this package just add *import LayoutEditor* to your python script. Any further [manual][manual] of the Python API is includes in the manual of the LayoutEditor.
 
 
 [LayoutEditor]: https://layouteditor.com
