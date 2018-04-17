@@ -1,8 +1,7 @@
 """A setuptools based setup module.
 
 See:
-https://packaging.python.org/en/latest/distributing.html
-https://github.com/pypa/sampleproject
+https://github.com/juspertor/LayoutScript_for_python
 """
 
 # Always prefer setuptools over distutils
@@ -40,7 +39,7 @@ setup(
     # For a discussion on single-sourcing the version across setup.py and the
     # project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='20180417',  # Required
+    version='20180418',  # Required
 
     # This is a one-line description or tagline of what your project does. This
     # corresponds to the "Summary" metadata field:
@@ -55,7 +54,7 @@ setup(
     #
     # This field corresponds to the "Description" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#description-optional
-    #long_description=long_description,  # Optional
+    long_description=long_description,  # Optional
 
     # Denotes that our long_description is in Markdown; valid values are
     # text/plain, text/x-rst, and text/markdown
@@ -73,7 +72,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/pypa/sampleproject',  # Optional
+    url='https://layouteditor.com',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -99,7 +98,7 @@ setup(
         'Topic :: Scientific/Engineering :: Electronic Design Automation (EDA) ',
 
         # Pick your license as you wish
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: MIT License ',
 
         # Specify the Python versions you support here. In particular, ensure
         # that you indicate whether you support Python 2, Python 3 or both.
