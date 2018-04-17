@@ -25,7 +25,7 @@ elif platform == "darwin":
     dir="/Applications/layout.app/Contents/python"
 elif platform == "win32":
     # Windows...
-    dir="Program Files (x86)/LayoutEditor/python"
+    dir="c:/Program Files (x86)/LayoutEditor/python"
 
 import os
 if (os.path.isdir(dir)):
