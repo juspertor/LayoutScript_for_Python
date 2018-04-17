@@ -1,6 +1,6 @@
 # LayoutEditor
 
-The [LayoutEditor][[LayoutEditor] is the most popular software to edit designs for MEMS and
+The [LayoutEditor][LayoutEditor] is the most popular software to edit designs for MEMS and
 IC fabrication. It is also often be used for Multi-Chip-Modules (MCM),
 Chip-on-Board (COB), Low temperature co-fired ceramics (LTCC), Monolithic
 Microwave Integrated Circuits (MMIC), printed circuit boards (PCB), thick
